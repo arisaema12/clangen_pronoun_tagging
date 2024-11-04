@@ -233,6 +233,35 @@
         ]
     },
     {
+        "id": "blunt_deputy",
+        "thoughts": [
+            "Doesn't let a poor hunter join the hunting patrol",
+	    "Asks a specific cat to try and catch more prey in future",
+	    "Informs another Clan what c_n really thinks of them at the gathering"
+        ],
+        "main_trait_constraint": [
+            "blunt"
+        ]
+    },
+    {
+        "id": "blunt_deputy_to_leader",
+        "thoughts": [
+            "Interrupts r_c at the gathering to share {PRONOUN/m_c/poss} own opinion",
+	    "Tells r_c that {PRONOUN/r_c/poss} plan makes no sense",
+	    "Snaps at another Clan's leader when they interupt r_c at the gathering"
+        ],
+        "main_trait_constraint": [
+            "blunt"
+        ],
+        "random_status_constraint": [
+            "apprentice"
+        ],
+        "random_living_status": [
+            "living"
+        ]
+
+    },
+    {
         "id": "clever_deputy",
         "thoughts": [
             "Is solving a complex problem that has been troubling the Clan",
