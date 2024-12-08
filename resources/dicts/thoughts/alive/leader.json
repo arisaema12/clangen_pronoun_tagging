@@ -207,6 +207,18 @@
         ]
     },
     {
+        "id": "blunt_leader",
+        "thoughts": [
+            "Makes sure everycat knows what areas they need to improve in",
+            "Isn't affraid to make accusations at the Gathering",
+            "Puts c_n's needs above peace at the Gathering",
+            "Promotes honestly within the Clan"
+        ],
+        "main_trait_constraint": [
+            "blunt"
+        ]
+    },
+    {
         "id": "leader_meanie_deputy_meanie",
         "thoughts": [
             "Is pleased with r_c's ruthless treatment of the warriors",
