@@ -904,6 +904,20 @@
         ]
     },
     {
+        "id": "blunt_elder",
+        "thoughts": [
+            "Snaps that {PRONOUN/m_c/poss} moss is too scratchy",
+            "Gives unsolicited advice to {PRONOUN/m_c/poss} Clanmates"
+        ],
+        "main_age_constraint": [
+            "senior adult",
+            "senior"
+        ],
+        "main_trait_constraint": [
+            "blunt"
+        ]
+    },
+    {
         "id": "teacher_elder",
         "thoughts": [
             "Is happy {PRONOUN/m_c/subject} can pass on {PRONOUN/m_c/poss} knowledge in a new way"
@@ -1046,7 +1060,8 @@
             "confident",
             "daring",
             "fierce",
-            "righteous"
+            "righteous",
+            "blunt"
         ],
         "random_status_constraint": [
             "leader"
