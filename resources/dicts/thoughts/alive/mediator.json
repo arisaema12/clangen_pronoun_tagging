@@ -181,6 +181,18 @@
         ]
     },
     {
+        "id": "blunt_mediator",
+        "thoughts": [
+            "Is quick to tell two arguing Clanmates who is in the wrong",
+            "Snaps at some Clanmates that their arguement is too petty to be worth mediating",
+            "Tells two cats that they should be able to solve such a simple dispute themselves",
+            "Irritably tells an arguing Clanmate to just admit they were wrong"
+        ],
+        "main_trait_constraint": [
+            "blunt"
+        ]
+    },
+    {
         "id": "mediator_to_dead_mediator",
         "thoughts": [
             "Wishes {PRONOUN/m_c/subject} could ask r_c for advice",
