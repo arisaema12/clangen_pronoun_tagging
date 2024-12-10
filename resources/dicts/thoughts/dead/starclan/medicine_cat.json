@@ -12,5 +12,14 @@
         "random_living_status": [
             "living"
         ]
+    },
+    {
+        "id": "blunt_med_cat",
+        "thoughts": [
+            "Thinks prophecies shouldn't be so vague"
+        ],
+        "main_trait_constraint": [
+            "blunt"
+        ]
     }
 ]
