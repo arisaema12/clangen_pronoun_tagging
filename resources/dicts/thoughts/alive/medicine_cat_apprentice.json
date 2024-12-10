@@ -97,6 +97,16 @@
         ]
     },
     {
+        "id": "blunt_medicine_cat_apprentice",
+        "thoughts": [
+            "Is learning that sometimes honesty is not the best option when talking to patients",
+	    "Learns how to sensitively inform a cat of their condition"
+        ],
+        "main_trait_constraint": [
+            "blunt"
+        ]
+    },
+    {
         "id": "meanie_medicine_cat_apprentice",
         "thoughts": [
             "Is hoping {PRONOUN/m_c/poss} medicine cat name will end in -claw",
