@@ -467,6 +467,16 @@
         ]
     },
     {
+        "id": "blunt_medicine_cat",
+        "thoughts": [
+            "Snaps at an overdramatic Clanmate that their tiny injury isn't serious",
+	    "Believes all medicine cats should be upfront about a patient's condition" 
+        ],
+        "main_trait_constraint": [
+            "blunt"
+        ]
+    },
+    {
         "id": "med_cat_dead_SC_gen",
         "thoughts": [
             "Wishes {PRONOUN/m_c/subject} could visit r_c in StarClan",
