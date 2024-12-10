@@ -350,6 +350,16 @@
         ]
     },
     {
+        "id": "blunt_warrior",
+        "thoughts": [
+            "States that {PRONOUN/m_c/subject} {VERB/m_c/do/does}n't want to patrol with a certain Clanmate",
+            "Corrects a Clanmate's technique that they'd been performing wrong for moons!"
+        ],
+        "main_trait_constraint": [
+            "blunt"
+        ]
+    },
+    {
         "id": "warrior_parent_alive_kits",
         "thoughts": [
             "Excitedly plays games with r_c, letting {PRONOUN/r_c/object} win every time",
