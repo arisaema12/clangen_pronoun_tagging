@@ -132,7 +132,7 @@
 			]
 		},
 		"trait_constraint": {
-			"m_c": ["bloodthirsty", "vengeful", "fierce", "bold"]
+			"m_c": ["bloodthirsty", "vengeful", "fierce", "bold", "blunt"]
 		},
 		"specific_reaction": {
 			"m_c_to_r_c1": {
