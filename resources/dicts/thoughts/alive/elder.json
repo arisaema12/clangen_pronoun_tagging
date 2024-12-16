@@ -1290,9 +1290,6 @@
         "main_age_constraint": [
             "adolescent"
         ],
-        "random_age_constraint": [
-            "any"
-        ],
         "random_living_status": [
             "living"
         ]
@@ -1434,9 +1431,6 @@
         ],
         "main_age_constraint": [
             "adolescent"
-        ],
-        "random_age_constraint": [
-            "any"
         ]
     },
     {
@@ -1524,9 +1518,6 @@
         "main_status_constraint": [
             "elder"
         ],
-        "main_age_constraint": [
-            "any"
-        ],
         "random_status_constraint": [
             "any"
         ],
@@ -1566,8 +1557,8 @@
             "m_c": [
                 "lost a leg",
                 "lost their tail",
-                "born without leg",
-                "born without tail"
+                "born without a leg",
+                "born without a tail"
             ]
         },
         "main_status_constraint": [
@@ -1590,8 +1581,8 @@
             "m_c": [
                 "lost a leg",
                 "lost their tail",
-                "born without leg",
-                "born without tail"
+                "born without a leg",
+                "born without a tail"
             ]
         },
         "main_status_constraint": [
@@ -1633,7 +1624,7 @@
         "perm_conditions": {
             "m_c": [
                 "lost a leg",
-                "born without leg"
+                "born without a leg"
             ]
         },
         "main_status_constraint": [
@@ -1653,10 +1644,10 @@
         ],
         "perm_conditions": {
             "m_c": [
-                "born without leg"
+                "born without a leg"
             ],
             "r_c": [
-                "born without leg"
+                "born without a leg"
             ]
         },
         "main_status_constraint": [
@@ -1676,11 +1667,11 @@
         ],
         "perm_conditions": {
             "m_c": [
-                "born without leg",
+                "born without a leg",
                 "lost a leg"
             ],
             "r_c": [
-                "born without leg"
+                "born without a leg"
             ]
         },
         "main_status_constraint": [
@@ -1701,7 +1692,7 @@
         "perm_conditions": {
             "m_c": [
                 "lost their tail",
-                "born without tail"
+                "born without a tail"
             ]
         },
         "main_status_constraint": [
@@ -1723,7 +1714,7 @@
         "perm_conditions": {
             "m_c": [
                 "lost their tail",
-                "born without tail"
+                "born without a tail"
             ]
         },
         "main_status_constraint": [
@@ -1742,11 +1733,11 @@
         "perm_conditions": {
             "m_c": [
                 "lost their tail",
-                "born without tail"
+                "born without a tail"
             ],
             "r_c": [
                 "lost their tail",
-                "born without tail"
+                "born without a tail"
             ]
         },
         "main_status_constraint": [
@@ -1768,11 +1759,11 @@
         "perm_conditions": {
             "m_c": [
                 "lost their tail",
-                "born without tail"
+                "born without a tail"
             ],
             "r_c": [
                 "lost their tail",
-                "born without tail"
+                "born without a tail"
             ]
         },
         "main_status_constraint": [
@@ -1816,7 +1807,7 @@
         "perm_conditions": {
             "m_c": [
                 "lost their tail",
-                "born without tail"
+                "born without a tail"
             ]
         },
         "main_status_constraint": [
