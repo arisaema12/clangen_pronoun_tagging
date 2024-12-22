@@ -54,6 +54,16 @@
 			"careful"
 		]
 	},
+		{
+		"id": "trust_inc_low5",
+		"intensity": "low",
+		"interactions": [
+			"m_c knows {PRONOUN/m_c/subject} can trust r_c to be honest with {PRONOUN/m_c/object}."
+		],
+		"random_trait_constraint": [
+			"blunt"
+		]
+	},
 	{
 		"id": "trust_inc_med1",
 		"interactions": [
