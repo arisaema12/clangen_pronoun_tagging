@@ -130,7 +130,6 @@
 		"id": "dislike_inc_med5",
 		"interactions": [
 			"r_c is asking m_c to tell {PRONOUN/r_c/object} about how good {PRONOUN/r_c/subject} {VERB/m_c/look/looks}.",
-			"r_c offends m_c with {PRONOUN/r_c/poss} brutal honesty.",
 			"m_c is irritated by r_c's constant bragging.",
 			"r_c gets really close to m_c's face while talking and grosses m_c out with {PRONOUN/r_c/poss} bad breath.",
 			"m_c tells r_c to quiet down, but r_c doesn't listen.",
@@ -139,6 +138,15 @@
 		"random_trait_constraint": [
 			"shameless",
 			"bold"
+		]
+	},
+	{
+		"id": "dislike_inc_med6",
+		"interactions": [
+			"r_c offends m_c with {PRONOUN/r_c/poss} brutal honesty."
+		],
+		"random_trait_constraint": [
+			"blunt"
 		]
 	},
 	{
