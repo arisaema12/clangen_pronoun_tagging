@@ -181,7 +181,7 @@
 		]
 	},
 	{
-		"id": "platonic_inc_med10",
+		"id": "platonic_inc_med11",
 		"interactions": [
 			"m_c is hiding behind a bush ready to pounce on r_c."
 		],
@@ -190,7 +190,16 @@
 		]
 	},
 	{
-		"id": "platonic_inc_med4",
+		"id": "platonic_inc_med12",
+		"interactions": [
+			"m_c appreciates r_c's honest advice."
+		],
+		"random_trait_constraint": [
+			"blunt"
+		]
+	},
+	{
+		"id": "platonic_inc_med13",
 		"interactions": [
 			"m_c wants to explore the whole territory with r_c!",
 			"m_c claims that r_c is one of {PRONOUN/m_c/poss} best friends.",
