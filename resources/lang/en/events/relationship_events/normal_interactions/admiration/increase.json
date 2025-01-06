@@ -103,6 +103,16 @@
 		}
 	},
 	{
+		"id": "admire_inc_medium3",
+		"interactions": [
+			"m_c is impressed by r_c's logical thinking when solving problems.",
+			"m_c admires how r_c always speaks {PRONOUN/r_c/poss} mind."
+		],
+		"random_trait_constraint": [
+			"blunt"
+		]
+	},
+	{
 		"id": "admire_med_inc_medium1",
 		"interactions": [
 			"m_c watched r_c show kindness and compassion towards {PRONOUN/r_c/poss} patients.",
