@@ -729,7 +729,8 @@
             "ambitious",
             "vengeful",
             "arrogant",
-            "rebellious"
+            "rebellious",
+	    "blunt"
         ],
         "random_living_status": [
             "living"
