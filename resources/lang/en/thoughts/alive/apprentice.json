@@ -461,6 +461,51 @@
         ]
     },
     {
+        "id": "blunt_warrior_apprentice",
+        "thoughts": [
+	    "Hates gathering moss - and makes sure every cat knows it",
+	    "Tells a rival apprentice that their leader is annoying"
+        ],
+        "main_trait_constraint": [
+            "blunt"
+        ],
+        "random_living_status": [
+            "living"
+        ]
+    },
+    {
+        "id": "blunt_warrior_apprentice_to_mentor",
+        "thoughts": [
+            "Corrects {PRONOUN/m_c/poss} mentor when {PRONOUN/r_c/subject} {VERB/r_c/teach/teaches} something incorrectly",
+	    "Asks r_c why every cat thinks {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} rude"
+        ],
+        "main_trait_constraint": [
+            "blunt"
+        ],
+        "relationship_constraint": [
+            "app/mentor"
+        ],
+	        "random_living_status": [
+            "living"
+        ]
+    },
+    {
+        "id": "blunt_warrior_apprentice_to_warrior_apprentice",
+        "thoughts": [
+	    "Wonders why the other apprentices get so upset with {PRONOUN/m_c/object}",
+	    "Told r_c {PRONOUN/r_c/poss} hunting crouch is wrong and doesn't understand why {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} upset"
+        ],
+        "main_trait_constraint": [
+            "blunt"
+        ],
+	"random_status_constraint": [
+	    "apprentice"
+        ],
+	        "random_living_status": [
+            "living"
+        ]
+    },
+    {
         "id": "warrior_apprentice_to_alive_mentor",
         "thoughts": [
             "Is trying to perfect the latest move that r_c taught {PRONOUN/m_c/object}",
@@ -537,8 +582,8 @@
             "strict",
             "ambitious",
             "vengeful",
-            "arrogant"
-
+            "arrogant",
+            "blunt
         ],
         "random_living_status": [
             "living"
