@@ -40,8 +40,8 @@
 		"id": "dislike_inc_low3",
 		"intensity": "low",
 		"interactions": [
-			"m_c asked r_c a question and finds the terse response hurtful",
-			"m_c finds r_c's advice a little too honest"
+			"m_c asked r_c a question and finds the terse response hurtful.",
+			"m_c finds r_c's advice a little too honest."
 		],
 		"random_trait_constraint": [
 			"blunt"
