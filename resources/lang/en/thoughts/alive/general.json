@@ -2360,6 +2360,20 @@
         ]
     },
     {
+        "id": "blunt_gen",
+        "thoughts": [
+            "Wonders if {PRONOUN/m_c/subject} {VERB/m_c/were/was} too abrasive earlier",
+            "Doesn't mean to come across as harsh",
+            "Thinks {PRONOUN/m_c/poss} Clanmates are too sensitive",
+            "Doesn't soften {PRONOUN/m_c/poss} words",
+            "Doesn't try to hide {PRONOUN/m_c/poss} dislike for a Clanmate",
+            "Is sought out for {PRONOUN/m_c/poss} honest advice"
+        ],
+        "main_trait_constraint": [
+            "blunt"
+        ]
+    },
+    {
         "id": "campkeeper_gen",
         "thoughts": [
             "Is padding back and forth across the camp",
@@ -3848,6 +3862,29 @@
         ],
         "main_trait_constraint": [
             "wise"
+        ],
+        "random_status_constraint": [
+            "apprentice",
+            "medicine cat apprentice",
+            "mediator apprentice"
+        ],
+        "random_living_status": [
+            "living"
+        ]
+    },
+     {
+        "id": "blunt_apprentices_to_apprentices",
+        "thoughts": [
+            "Gives unsolicited advice to a fellow apprentice",
+            "Criticises another apprentice's technique"
+        ],
+        "main_status_constraint": [
+            "apprentice",
+            "medicine cat apprentice",
+            "mediator apprentice"
+        ],
+        "main_trait_constraint": [
+            "blunt"
         ],
         "random_status_constraint": [
             "apprentice",
