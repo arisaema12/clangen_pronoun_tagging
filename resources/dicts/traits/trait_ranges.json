@@ -233,6 +233,12 @@
             "sociability": [0, 16],
             "aggression": [6, 10],
             "stability": [10, 16]
+        },
+        "blunt": {
+            "lawfulness": [12, 16],
+            "sociability": [0, 6],
+            "aggression": [5, 16],
+            "stability": [12, 16]
         }
     },
     "kit_traits": {
